@@ -1,0 +1,24 @@
+.covered {
+  background-color: black;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.card {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: 1px solid black;
+  margin: auto auto auto 30px;
+  padding: 10px;
+  border-radius: 30%;
+}
